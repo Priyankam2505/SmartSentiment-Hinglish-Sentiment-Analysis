@@ -1,3 +1,7 @@
+## Run in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Priyankam2505/SmartSentiment-Hinglish-Sentiment-Analysis/blob/main/notebook/smartsentiment.ipynb)
+
 # SmartSentiment: Hinglish Sentiment Analysis
 
 ## Overview
