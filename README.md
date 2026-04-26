@@ -36,6 +36,8 @@ SmartSentiment is a context-aware sentiment analysis system designed for Hindi-E
 ## Results Visualization
 ![Results](images/results.png)
 
+mBERT performs better than XLM-RoBERTa due to better handling of code-mixed text and multilingual embeddings.
+
 ---
 
 ## Sample Predictions
@@ -56,6 +58,13 @@ SmartSentiment is a context-aware sentiment analysis system designed for Hindi-E
 2. Upload dataset (if available)  
 3. Run all cells  
 
+---
+
+This system can be used for:
+- Social media monitoring
+- Brand sentiment analysis
+- Public opinion tracking
+  
 ---
 
 ## Note
